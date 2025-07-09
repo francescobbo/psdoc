@@ -1,4 +1,4 @@
-# Timing timing
+# NOP timing
 
 The purpose of this test was to measure the time it takes to read the PS1 timer.
 This is important because this value acts as a baseline for all other
