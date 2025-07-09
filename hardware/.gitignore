@@ -1,0 +1,6 @@
+comport.txt
+*.bin
+*.o
+target/
+*.tmp.asm
+*.elf
